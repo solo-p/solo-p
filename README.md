@@ -9,9 +9,9 @@
  My name is Solomon Iroegbu 👋 and I'm a software developer. I'm from Nigeria, living in Lagos and currently taking gigs. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]] and [Facebook] [3].
 
 ## 🔧  Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/laravel-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
@@ -22,6 +22,10 @@
 ![](https://img.shields.io/badge/Node-informational?style=flat&logo=nodes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Social Media Management, Blog & Writing
 
