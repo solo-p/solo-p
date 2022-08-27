@@ -1,9 +1,9 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/solo-p/solo-p/master/readme_header.png "Header")](https://cotechgy.com/)
+[![Header](https://raw.githubusercontent.com/solo-p/master/readme_header.png "Header")](https://cotechgy.com/)
 
 ## Hello, folks!
- <a class="readme_header" href="#"><img src="/readme_header.png" alt="Header" /></a>
+ <a class="readme_header" href="#"><img src="/..readme_header.png" alt="Header" /></a>
 
 
  My name is Solomon Iroegbu 👋 and I'm a software developer. I'm from Nigeria, living in Lagos and currently taking gigs. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]] and [![Facebook][3]].
