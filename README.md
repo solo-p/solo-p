@@ -3,7 +3,7 @@
 [![Header](https://raw.githubusercontent.com/solo-p/solo-p/master/readme_header.png "Header")](https://cotechgy.com/)
 
 ## Hello, folks!
- <a class="readme_header" href="#"><img src="..readme_header.png" alt="Header" /></a>
+ <a class="readme_header" href="#"><img src="../readme_header.png" alt="Header" /></a>
 
 
  My name is Solomon Iroegbu 👋 and I'm a software developer. I'm from Nigeria, living in Lagos and currently taking gigs. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]] and [Facebook] [3].
@@ -13,13 +13,13 @@
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/laravel-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node-informational?style=flat&logo=nodes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
@@ -72,7 +72,7 @@ Apart from coding, I also manage Social Media Accounts,maintain a blogs -
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://media-exp1.licdn.com/dms/image/C5103AQHJ3Tpwr-ZsFQ/profile-displayphoto-shrink_200_200/0/1517533444301?e=1666828800&v=beta&t=fhfnAcRu8lU1Cn-Ik1ThZ0ZnrdB6khnJuq7Z8assjIk (LinkedIn icon without padding)
+[3.2]: https://www.linkedin.com/feed/
 
 
 <!-- links to your social media accounts -->
